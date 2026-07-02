@@ -1,0 +1,20 @@
+create react project using =>npn create vite@latest
+For the snippets we can use => ES7 extention in VS code 
+
+Tailwind => Just go to Vite with Tailwind and get the process to install tailwind in your project.
+
+Clerk => Clerk is used for user management and gives In-Built Component for Sign-In , Sign-Out etc
+         and manage users securely.
+         For clerk just logged in there website create new project and install clerk in your project
+         and it also gives all the process of installation so just follow from there.
+
+Neon database conncetion=>
+       1.Go on Neon database on google and login with google account and then create new project where give the 
+          project name region like asia singapour and create database.
+       2. connect backend with neon database there is connect button on dashboard click on it and there will be
+          link so for that we can follow the docs to how can we connect with DB so first we will type on google 
+          neon database and then clicks on Docs and then hover on Develop and then clicks on ORMs then clicks on 
+          prisma and follow the doc or follow the video of flipEarn by GreatStack.
+
+Clerk configuration =>
+       1.Just login in clerk and follow the docs for Express.
