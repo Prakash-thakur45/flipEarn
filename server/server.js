@@ -2,7 +2,7 @@ import express from "express"
 import cors from "cors"
 import "dotenv/config"
 import { clerkMiddleware } from '@clerk/express'
-import { serve } from "inngest/hono";
+import { serve } from "inngest/express";
 import { functions, inngest } from "./inngest/index.js";
 
 
